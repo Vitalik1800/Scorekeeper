@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.226" />
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/drawable/button_background.xml" value="0.1215" />
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/drawable/ic_launcher_background.xml" value="0.173" />
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/drawable/ic_minus.xml" value="0.221" />
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/drawable/ic_plus.xml" value="0.226" />
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Folder_For_Vitaliy/TNTU/4_course/1_semester/android/Labs/Lab4/Scorekeeper/app/src/main/res/menu/main_menu.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
